@@ -1,6 +1,5 @@
 # Prediksi Click-Through Rate (CTR) untuk Optimasi Penargetan Iklan
 
-[![Lisensi](https://img.shields.io/badge/lisensi-MIT-blue.svg)](LICENSE)
 [![Python Versi](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 Proyek ini bertujuan untuk membangun model machine learning yang dapat memprediksi Click-Through Rate (CTR) iklan secara akurat. Dengan memanfaatkan fitur-fitur seperti demografi pengguna, karakteristik iklan, dan konteks penayangan, model ini memberikan wawasan berharga bagi tim digital marketer untuk mengoptimalkan kampanye iklan di platform seperti Meta Ads dan TikTok. Selain itu, proyek ini juga menyediakan dashboard interaktif berbasis Streamlit untuk visualisasi performa iklan dan rekomendasi strategi penargetan.
