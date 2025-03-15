@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Location,Subscription_Type,Last_Activity_Date,Engagement_Score
+U001,58,Female,Medan,Learning Plan,2024-10-09,0.43
+U002,25,Male,Jakarta,Private Class,2023-02-15,0.81
+U003,22,Male,Surabaya,Bootcamp,2023-12-06,0.88
+U004,29,Male,Jakarta,Private Class,2023-10-05,0.6
+U005,21,Male,Medan,Bootcamp,2023-05-12,0.97
+U006,28,Female,Jakarta,Private Class,2023-07-18,0.88
+U007,59,Female,Medan,Learning Plan,2024-04-27,0.98
+U008,21,Female,Bandung,Private Class,2023-12-13,0.7
+U009,24,Female,Makassar,Private Class,2023-10-27,0.44
+U010,20,Female,Jakarta,Private Class,2023-01-07,0.19
+U011,41,Male,Jakarta,Private Class,2023-02-01,0.76
+U012,57,Male,Jakarta,Bootcamp,2023-05-23,0.14
+U013,20,Female,Medan,Bootcamp,2024-10-04,0.66
+U014,48,Female,Makassar,Private Class,2024-04-07,0.55
+U015,41,Female,Makassar,Bootcamp,2023-05-23,0.52
+U016,59,Male,Surabaya,Private Class,2023-01-26,0.62
+U017,23,Male,Bandung,Bootcamp,2023-08-19,0.42
+U018,40,Male,Makassar,Learning Plan,2023-07-24,0.53
+U019,52,Male,Jakarta,Learning Plan,2024-06-17,0.78
+U020,55,Female,Medan,Learning Plan,2024-08-05,0.6
+U021,39,Male,Medan,Bootcamp,2024-05-20,0.98
+U022,49,Female,Bandung,Private Class,2024-12-05,0.86
+U023,49,Female,Surabaya,Bootcamp,2024-12-17,0.91
+U024,45,Male,Bandung,Private Class,2023-04-21,0.46
+U025,33,Female,Medan,Learning Plan,2024-09-16,0.33
+U026,31,Male,Medan,Private Class,2024-12-03,0.32
+U027,44,Male,Jakarta,Private Class,2023-06-24,0.48
+U028,52,Female,Bandung,Bootcamp,2025-01-18,0.64
+U029,37,Female,Bandung,Private Class,2023-05-28,0.34
+U030,24,Female,Jakarta,Private Class,2023-04-09,0.32
+U031,54,Female,Medan,Learning Plan,2024-10-04,0.65
+U032,56,Female,Surabaya,Learning Plan,2024-10-22,0.67
+U033,40,Female,Jakarta,Learning Plan,2023-10-20,0.32
+U034,23,Female,Medan,Private Class,2023-10-14,0.81
+U035,53,Female,Surabaya,Private Class,2023-03-21,0.64
+U036,23,Male,Medan,Bootcamp,2023-07-27,0.44
+U037,32,Male,Bandung,Private Class,2025-01-22,0.12
+U038,27,Female,Surabaya,Learning Plan,2024-08-10,0.44
+U039,55,Male,Surabaya,Private Class,2024-01-14,0.75
+U040,38,Female,Makassar,Learning Plan,2023-12-11,0.37
+U041,42,Female,Surabaya,Learning Plan,2024-05-24,0.36
+U042,37,Male,Makassar,Private Class,2023-02-06,0.28
+U043,22,Male,Surabaya,Bootcamp,2023-10-14,0.24
+U044,37,Female,Medan,Learning Plan,2024-01-30,0.4
+U045,22,Male,Jakarta,Learning Plan,2024-10-27,0.82
+U046,55,Female,Medan,Learning Plan,2025-02-12,0.35
+U047,36,Male,Bandung,Learning Plan,2023-03-28,0.11
+U048,43,Female,Jakarta,Bootcamp,2024-09-25,0.94
+U049,33,Female,Makassar,Bootcamp,2024-11-01,0.14
+U050,49,Male,Medan,Private Class,2023-01-20,0.54
+U051,46,Male,Bandung,Bootcamp,2024-02-13,0.21
+U052,28,Female,Makassar,Learning Plan,2023-03-13,0.92
+U053,55,Male,Medan,Private Class,2024-04-21,0.22
+U054,34,Male,Jakarta,Private Class,2024-03-30,0.91
+U055,57,Male,Jakarta,Private Class,2023-09-27,0.39
+U056,42,Male,Jakarta,Learning Plan,2024-08-01,0.46
+U057,44,Male,Jakarta,Learning Plan,2024-11-13,0.51
+U058,50,Female,Surabaya,Learning Plan,2023-08-28,0.43
+U059,48,Female,Makassar,Private Class,2023-02-20,0.77
+U060,25,Male,Medan,Private Class,2025-01-05,0.95
+U061,45,Male,Makassar,Private Class,2024-11-01,0.19
+U062,27,Female,Medan,Private Class,2024-08-28,0.7
+U063,44,Male,Surabaya,Learning Plan,2023-11-09,0.58
+U064,49,Female,Makassar,Learning Plan,2024-01-15,0.57
+U065,57,Female,Medan,Learning Plan,2024-07-27,0.37
+U066,19,Male,Medan,Private Class,2024-05-12,0.86
+U067,33,Male,Surabaya,Learning Plan,2023-03-27,0.14
+U068,37,Female,Jakarta,Learning Plan,2023-05-20,0.19
+U069,24,Male,Surabaya,Learning Plan,2024-09-12,0.6
+U070,56,Female,Makassar,Private Class,2023-11-01,0.78
+U071,54,Female,Medan,Bootcamp,2023-02-25,0.81
+U072,48,Male,Makassar,Bootcamp,2023-07-30,0.2
+U073,18,Female,Makassar,Private Class,2025-01-02,0.95
+U074,27,Female,Makassar,Private Class,2023-10-27,0.48
+U075,34,Female,Jakarta,Bootcamp,2024-12-21,0.51
+U076,58,Female,Surabaya,Learning Plan,2023-03-03,0.24
+U077,35,Female,Makassar,Private Class,2023-11-13,0.29
+U078,47,Female,Medan,Bootcamp,2025-02-14,0.43
+U079,32,Male,Bandung,Learning Plan,2023-06-05,0.68
+U080,49,Male,Surabaya,Private Class,2023-08-05,0.72
+U081,52,Female,Makassar,Private Class,2023-08-28,0.48
+U082,22,Female,Jakarta,Private Class,2023-03-03,0.51
+U083,24,Male,Jakarta,Learning Plan,2024-06-16,0.3
+U084,24,Female,Bandung,Bootcamp,2024-07-03,0.31
+U085,24,Female,Surabaya,Private Class,2024-06-25,0.42
+U086,25,Female,Bandung,Bootcamp,2024-10-02,0.87
+U087,26,Male,Bandung,Bootcamp,2024-02-01,0.24
+U088,42,Male,Medan,Bootcamp,2024-08-30,0.35
+U089,25,Female,Surabaya,Learning Plan,2024-02-21,0.79
+U090,47,Male,Bandung,Learning Plan,2024-12-06,0.32
+U091,19,Male,Makassar,Bootcamp,2023-02-20,0.93
+U092,44,Male,Jakarta,Learning Plan,2024-06-12,0.86
+U093,52,Female,Makassar,Learning Plan,2024-03-13,0.33
+U094,36,Female,Makassar,Learning Plan,2024-04-03,0.25
+U095,50,Male,Surabaya,Private Class,2024-10-29,0.81
+U096,33,Female,Jakarta,Bootcamp,2024-05-30,0.27
+U097,41,Female,Bandung,Bootcamp,2023-04-18,0.54
+U098,37,Male,Medan,Private Class,2024-02-23,0.78
+U099,29,Female,Bandung,Bootcamp,2024-04-22,0.75
+U100,52,Male,Bandung,Private Class,2023-07-13,0.12
+U101,53,Female,Medan,Private Class,2024-10-06,0.32
+U102,54,Male,Medan,Bootcamp,2023-05-20,0.67
+U103,33,Male,Medan,Bootcamp,2024-04-15,0.87
+U104,18,Male,Jakarta,Bootcamp,2023-02-08,0.13
+U105,28,Female,Jakarta,Private Class,2023-09-26,0.69
+U106,21,Female,Surabaya,Bootcamp,2024-12-24,0.52
+U107,33,Female,Surabaya,Learning Plan,2024-07-06,0.77
+U108,58,Female,Makassar,Bootcamp,2024-12-27,0.72
+U109,53,Male,Bandung,Learning Plan,2024-07-26,0.7
+U110,34,Female,Bandung,Bootcamp,2023-09-01,0.91
+U111,42,Female,Surabaya,Learning Plan,2024-02-28,0.21
+U112,52,Male,Bandung,Bootcamp,2023-07-30,0.97
+U113,33,Female,Medan,Bootcamp,2024-09-16,0.9
+U114,35,Male,Bandung,Learning Plan,2024-05-19,0.83
+U115,45,Male,Bandung,Private Class,2023-12-19,0.24
+U116,50,Female,Makassar,Bootcamp,2023-08-22,0.29
+U117,21,Female,Medan,Bootcamp,2024-02-06,0.16
+U118,36,Male,Jakarta,Private Class,2023-12-17,0.72
+U119,32,Female,Makassar,Bootcamp,2023-05-12,0.7
+U120,41,Male,Makassar,Learning Plan,2023-11-07,0.89
+U121,52,Female,Bandung,Bootcamp,2023-09-22,0.1
+U122,26,Male,Surabaya,Learning Plan,2023-01-27,0.23
+U123,22,Male,Medan,Learning Plan,2024-04-27,0.32
+U124,52,Female,Makassar,Bootcamp,2023-04-14,0.51
+U125,41,Female,Jakarta,Bootcamp,2025-01-07,0.32
+U126,37,Female,Makassar,Private Class,2023-05-19,0.72
+U127,36,Male,Surabaya,Private Class,2024-06-01,0.61
+U128,28,Male,Bandung,Bootcamp,2025-02-07,0.39
+U129,43,Female,Jakarta,Learning Plan,2024-11-24,0.64
+U130,46,Female,Jakarta,Learning Plan,2023-05-21,0.94
+U131,32,Male,Jakarta,Bootcamp,2024-06-21,0.3
+U132,52,Male,Bandung,Private Class,2023-11-15,0.92
+U133,27,Male,Jakarta,Bootcamp,2024-10-09,0.1
+U134,26,Female,Surabaya,Bootcamp,2023-04-25,0.84
+U135,33,Male,Jakarta,Private Class,2023-10-24,0.18
+U136,22,Male,Bandung,Private Class,2023-10-17,0.96
+U137,24,Female,Surabaya,Private Class,2023-04-27,0.36
+U138,46,Male,Surabaya,Private Class,2023-04-14,0.54
+U139,59,Female,Bandung,Bootcamp,2024-10-19,0.84
+U140,32,Male,Makassar,Bootcamp,2023-08-29,0.43
+U141,25,Male,Bandung,Private Class,2024-07-07,0.65
+U142,56,Male,Bandung,Bootcamp,2024-11-01,0.84
+U143,49,Female,Medan,Private Class,2023-08-17,0.56
+U144,53,Female,Bandung,Learning Plan,2023-01-18,0.29
+U145,30,Female,Surabaya,Learning Plan,2024-03-09,0.25
+U146,49,Male,Makassar,Private Class,2024-08-29,0.45
+U147,37,Female,Surabaya,Private Class,2024-01-07,0.71
+U148,48,Female,Jakarta,Private Class,2023-11-07,0.27
+U149,32,Female,Makassar,Bootcamp,2025-02-02,0.29
+U150,21,Male,Jakarta,Bootcamp,2023-09-07,0.35
+U151,43,Male,Surabaya,Bootcamp,2023-11-07,0.36
+U152,58,Female,Bandung,Learning Plan,2023-05-02,0.9
+U153,55,Male,Jakarta,Bootcamp,2023-08-23,0.77
+U154,29,Male,Bandung,Private Class,2024-01-09,0.29
+U155,56,Male,Surabaya,Private Class,2023-05-25,0.13
+U156,53,Male,Medan,Private Class,2025-02-04,0.79
+U157,59,Female,Jakarta,Private Class,2024-11-16,0.96
+U158,50,Male,Medan,Private Class,2023-11-24,0.29
+U159,58,Male,Bandung,Bootcamp,2024-11-21,0.66
+U160,56,Female,Bandung,Bootcamp,2023-09-12,0.6
+U161,47,Male,Surabaya,Learning Plan,2024-08-19,0.11
+U162,22,Male,Bandung,Private Class,2024-09-06,0.75
+U163,41,Female,Makassar,Learning Plan,2024-03-07,0.85
+U164,24,Male,Makassar,Bootcamp,2023-03-17,0.7
+U165,48,Male,Jakarta,Bootcamp,2023-11-16,0.6
+U166,38,Female,Surabaya,Learning Plan,2024-03-13,0.55
+U167,40,Male,Surabaya,Learning Plan,2024-03-17,0.88
+U168,28,Male,Jakarta,Bootcamp,2024-08-21,0.73
+U169,18,Male,Makassar,Bootcamp,2024-05-01,0.8
+U170,24,Female,Makassar,Learning Plan,2024-07-04,0.49
+U171,35,Female,Medan,Private Class,2024-05-13,0.38
+U172,40,Male,Makassar,Private Class,2024-12-04,0.84
+U173,43,Male,Bandung,Learning Plan,2025-01-25,0.69
+U174,43,Female,Medan,Private Class,2024-02-09,0.5
+U175,23,Female,Makassar,Private Class,2024-03-13,0.87
+U176,20,Female,Bandung,Private Class,2023-04-08,0.11
+U177,46,Female,Bandung,Bootcamp,2023-03-26,0.48
+U178,55,Female,Medan,Bootcamp,2024-03-18,0.39
+U179,37,Male,Makassar,Bootcamp,2024-11-27,0.5
+U180,58,Female,Surabaya,Bootcamp,2023-04-02,0.97
+U181,58,Male,Makassar,Private Class,2023-06-08,0.9
+U182,56,Male,Makassar,Bootcamp,2023-11-21,0.32
+U183,30,Female,Medan,Bootcamp,2023-03-07,0.56
+U184,18,Male,Makassar,Private Class,2023-06-20,0.21
+U185,37,Female,Bandung,Private Class,2024-05-17,0.25
+U186,19,Female,Makassar,Private Class,2024-11-05,0.29
+U187,27,Male,Medan,Private Class,2023-08-31,0.4
+U188,49,Male,Surabaya,Bootcamp,2023-05-10,0.9
+U189,51,Female,Medan,Learning Plan,2023-07-28,0.86
+U190,58,Male,Jakarta,Private Class,2025-01-01,0.81
+U191,30,Female,Makassar,Bootcamp,2023-07-18,0.25
+U192,19,Male,Jakarta,Bootcamp,2023-11-16,0.59
+U193,48,Female,Jakarta,Learning Plan,2024-05-08,0.49
+U194,57,Male,Bandung,Learning Plan,2023-10-23,0.33
+U195,52,Female,Jakarta,Learning Plan,2023-03-09,0.44
+U196,29,Female,Medan,Learning Plan,2023-09-11,0.84
+U197,51,Male,Makassar,Private Class,2023-05-05,0.87
+U198,54,Female,Makassar,Private Class,2023-08-01,0.52
+U199,21,Male,Medan,Learning Plan,2024-01-23,0.33
+U200,49,Female,Bandung,Private Class,2023-08-25,0.81
+U201,57,Female,Medan,Bootcamp,2023-07-31,0.33
+U202,29,Female,Medan,Private Class,2023-10-10,0.94
+U203,52,Male,Makassar,Bootcamp,2024-07-13,0.52
+U204,38,Male,Medan,Learning Plan,2024-03-22,0.18
+U205,25,Female,Medan,Bootcamp,2024-06-15,0.57
+U206,47,Female,Medan,Learning Plan,2023-12-22,0.6
+U207,32,Female,Bandung,Learning Plan,2024-11-29,0.25
+U208,22,Female,Jakarta,Learning Plan,2023-01-19,0.23
+U209,58,Female,Makassar,Bootcamp,2024-06-27,0.74
+U210,32,Female,Bandung,Private Class,2023-09-24,0.91
+U211,55,Female,Jakarta,Private Class,2023-06-04,0.74
+U212,21,Female,Makassar,Bootcamp,2025-01-03,0.94
+U213,54,Male,Medan,Bootcamp,2023-10-29,0.58
+U214,56,Female,Surabaya,Learning Plan,2023-04-23,0.45
+U215,55,Female,Medan,Bootcamp,2023-06-26,0.95
+U216,34,Male,Jakarta,Learning Plan,2023-02-06,0.88
+U217,54,Female,Bandung,Learning Plan,2024-10-25,0.86
+U218,39,Male,Medan,Private Class,2023-02-13,0.97
+U219,43,Male,Jakarta,Learning Plan,2023-05-02,0.21
+U220,48,Male,Jakarta,Private Class,2023-02-18,0.71
+U221,36,Male,Bandung,Private Class,2023-08-01,0.4
+U222,51,Male,Jakarta,Bootcamp,2023-08-11,0.54
+U223,22,Female,Medan,Learning Plan,2024-08-13,0.25
+U224,22,Female,Bandung,Private Class,2024-08-17,0.22
+U225,40,Female,Bandung,Bootcamp,2024-01-09,0.87
+U226,29,Male,Medan,Learning Plan,2024-01-19,0.23
+U227,44,Male,Bandung,Private Class,2023-01-06,0.22
+U228,33,Female,Medan,Bootcamp,2023-11-18,0.64
+U229,33,Female,Makassar,Learning Plan,2024-04-14,0.91
+U230,53,Male,Jakarta,Bootcamp,2025-01-28,0.39
+U231,54,Male,Makassar,Learning Plan,2023-11-16,0.17
+U232,46,Female,Makassar,Learning Plan,2023-05-22,0.46
+U233,57,Female,Makassar,Bootcamp,2024-07-10,0.7
+U234,43,Female,Surabaya,Bootcamp,2025-01-27,0.41
+U235,48,Female,Medan,Bootcamp,2024-02-04,0.25
+U236,39,Female,Medan,Learning Plan,2023-07-27,0.24
+U237,43,Male,Jakarta,Learning Plan,2023-08-08,0.48
+U238,58,Male,Bandung,Learning Plan,2023-07-31,0.37
+U239,19,Male,Jakarta,Bootcamp,2023-05-29,0.43
+U240,52,Female,Jakarta,Bootcamp,2023-02-20,0.87
+U241,33,Female,Bandung,Bootcamp,2024-04-14,0.83
+U242,43,Female,Surabaya,Bootcamp,2024-07-21,0.35
+U243,52,Male,Surabaya,Bootcamp,2024-09-23,0.9
+U244,44,Male,Jakarta,Private Class,2024-02-08,0.37
+U245,29,Female,Jakarta,Bootcamp,2025-02-12,0.86
+U246,51,Female,Makassar,Bootcamp,2024-07-12,0.69
+U247,34,Male,Jakarta,Learning Plan,2024-02-10,0.51
+U248,38,Male,Makassar,Private Class,2024-04-06,0.8
+U249,35,Male,Surabaya,Learning Plan,2025-02-14,0.65
+U250,18,Male,Bandung,Bootcamp,2025-01-11,0.63
+U251,52,Female,Surabaya,Learning Plan,2023-06-08,0.89
+U252,24,Male,Bandung,Learning Plan,2023-05-19,0.54
+U253,43,Female,Surabaya,Bootcamp,2023-09-20,0.97
+U254,32,Male,Jakarta,Bootcamp,2024-01-23,0.31
+U255,55,Male,Bandung,Learning Plan,2023-10-31,0.98
+U256,43,Female,Jakarta,Private Class,2024-11-01,0.69
+U257,50,Male,Makassar,Learning Plan,2024-03-17,0.33
+U258,34,Male,Medan,Learning Plan,2024-04-21,0.97
+U259,24,Female,Medan,Private Class,2023-08-25,0.78
+U260,48,Male,Jakarta,Learning Plan,2024-04-30,0.73
+U261,28,Female,Medan,Private Class,2023-06-07,0.16
+U262,49,Female,Makassar,Bootcamp,2023-06-13,0.84
+U263,47,Female,Surabaya,Learning Plan,2023-11-08,0.5
+U264,53,Female,Surabaya,Bootcamp,2023-03-23,0.27
+U265,22,Female,Surabaya,Private Class,2023-11-01,0.8
+U266,38,Female,Makassar,Learning Plan,2024-05-25,0.55
+U267,24,Male,Bandung,Learning Plan,2024-09-25,0.59
+U268,22,Male,Makassar,Private Class,2024-07-25,0.97
+U269,23,Male,Bandung,Private Class,2025-01-29,0.91
+U270,27,Male,Makassar,Bootcamp,2023-11-14,0.48
+U271,55,Male,Bandung,Private Class,2023-08-05,0.36
+U272,34,Male,Surabaya,Bootcamp,2024-06-15,0.27
+U273,40,Male,Jakarta,Private Class,2023-02-08,0.79
+U274,18,Male,Jakarta,Private Class,2023-05-20,0.89
+U275,47,Female,Bandung,Learning Plan,2023-04-14,0.48
+U276,49,Female,Bandung,Private Class,2024-04-29,0.84
+U277,29,Female,Makassar,Bootcamp,2023-05-07,0.3
+U278,47,Male,Medan,Private Class,2023-09-07,0.78
+U279,18,Female,Bandung,Bootcamp,2023-08-20,0.68
+U280,37,Female,Surabaya,Bootcamp,2025-01-23,0.39
+U281,59,Male,Jakarta,Learning Plan,2024-02-19,0.25
+U282,25,Female,Surabaya,Learning Plan,2023-02-22,0.93
+U283,40,Female,Jakarta,Learning Plan,2023-07-30,0.32
+U284,38,Female,Surabaya,Learning Plan,2023-04-05,0.37
+U285,24,Male,Jakarta,Private Class,2023-05-28,0.5
+U286,32,Female,Bandung,Private Class,2024-04-14,0.64
+U287,34,Male,Surabaya,Bootcamp,2024-06-14,0.34
+U288,30,Female,Makassar,Bootcamp,2024-01-28,0.98
+U289,44,Female,Makassar,Learning Plan,2023-01-15,0.29
+U290,30,Female,Makassar,Private Class,2024-05-25,0.16
+U291,40,Male,Surabaya,Learning Plan,2023-09-24,0.94
+U292,44,Male,Medan,Learning Plan,2023-08-04,0.95
+U293,51,Female,Jakarta,Bootcamp,2024-09-14,0.88
+U294,33,Male,Medan,Bootcamp,2023-06-29,0.62
+U295,52,Male,Makassar,Bootcamp,2024-04-11,0.49
+U296,44,Female,Jakarta,Learning Plan,2023-08-26,0.19
+U297,35,Female,Bandung,Learning Plan,2024-01-21,0.32
+U298,55,Female,Jakarta,Bootcamp,2024-11-30,0.73
+U299,34,Male,Bandung,Private Class,2023-07-28,0.56
+U300,33,Female,Bandung,Bootcamp,2024-03-10,0.97
+U301,22,Female,Surabaya,Bootcamp,2024-12-11,0.42
+U302,33,Female,Medan,Learning Plan,2023-03-03,0.39
+U303,58,Male,Makassar,Bootcamp,2024-04-22,0.39
+U304,56,Male,Jakarta,Bootcamp,2024-01-24,0.47
+U305,44,Female,Medan,Private Class,2023-02-11,0.32
+U306,45,Male,Surabaya,Bootcamp,2023-10-09,0.69
+U307,38,Female,Medan,Private Class,2023-08-30,0.46
+U308,48,Male,Jakarta,Bootcamp,2023-07-19,0.6
+U309,36,Female,Surabaya,Learning Plan,2023-11-08,0.72
+U310,46,Male,Jakarta,Private Class,2024-01-15,0.89
+U311,40,Male,Bandung,Private Class,2023-01-13,0.15
+U312,50,Male,Surabaya,Private Class,2024-02-10,0.37
+U313,53,Female,Makassar,Bootcamp,2023-11-28,0.66
+U314,52,Male,Bandung,Bootcamp,2023-05-04,0.21
+U315,36,Male,Jakarta,Bootcamp,2023-01-09,0.36
+U316,26,Male,Jakarta,Bootcamp,2025-01-13,0.34
+U317,56,Female,Makassar,Private Class,2023-02-06,0.32
+U318,50,Male,Bandung,Learning Plan,2024-07-11,0.74
+U319,23,Female,Medan,Bootcamp,2024-02-12,0.32
+U320,44,Female,Medan,Learning Plan,2024-02-06,0.63
+U321,53,Male,Jakarta,Private Class,2025-01-13,0.33
+U322,49,Male,Bandung,Private Class,2024-07-29,0.82
+U323,43,Female,Makassar,Bootcamp,2024-06-17,0.12
+U324,27,Male,Medan,Bootcamp,2023-03-12,0.27
+U325,53,Male,Medan,Private Class,2024-12-27,0.34
+U326,26,Male,Medan,Bootcamp,2025-01-08,0.77
+U327,42,Male,Makassar,Private Class,2024-12-11,0.95
+U328,41,Male,Makassar,Bootcamp,2024-07-29,0.92
+U329,52,Male,Makassar,Private Class,2023-01-10,0.29
+U330,39,Female,Bandung,Bootcamp,2023-03-01,0.35
+U331,18,Male,Jakarta,Private Class,2024-06-28,0.73
+U332,45,Male,Makassar,Private Class,2025-01-21,0.6
+U333,19,Female,Surabaya,Learning Plan,2023-11-09,1.0
+U334,22,Female,Jakarta,Bootcamp,2024-11-08,0.33
+U335,33,Male,Makassar,Learning Plan,2023-02-27,0.33
+U336,38,Female,Makassar,Private Class,2023-11-01,0.32
+U337,53,Female,Surabaya,Bootcamp,2024-02-02,0.43
+U338,52,Female,Surabaya,Learning Plan,2024-05-04,0.83
+U339,46,Female,Makassar,Bootcamp,2024-03-29,0.32
+U340,52,Male,Surabaya,Learning Plan,2024-11-16,0.79
+U341,49,Male,Jakarta,Private Class,2024-09-21,0.52
+U342,45,Male,Makassar,Private Class,2023-11-23,0.36
+U343,30,Female,Bandung,Bootcamp,2023-12-04,0.97
+U344,56,Male,Jakarta,Private Class,2023-08-05,0.39
+U345,56,Female,Medan,Learning Plan,2024-04-24,0.24
+U346,29,Female,Bandung,Private Class,2025-01-22,0.86
+U347,33,Female,Jakarta,Private Class,2023-12-02,0.87
+U348,29,Female,Bandung,Bootcamp,2023-12-03,0.26
+U349,57,Female,Medan,Bootcamp,2024-08-28,0.25
+U350,38,Female,Jakarta,Bootcamp,2024-01-28,0.49
+U351,47,Female,Bandung,Private Class,2024-05-10,0.96
+U352,36,Female,Surabaya,Private Class,2024-06-18,0.52
+U353,50,Female,Jakarta,Bootcamp,2024-11-03,0.6
+U354,46,Male,Jakarta,Private Class,2024-04-12,0.94
+U355,37,Male,Bandung,Bootcamp,2023-01-23,0.83
+U356,39,Female,Makassar,Private Class,2024-02-28,0.62
+U357,40,Male,Bandung,Learning Plan,2024-05-04,0.35
+U358,24,Male,Surabaya,Bootcamp,2025-01-11,0.69
+U359,32,Male,Surabaya,Private Class,2024-01-18,0.44
+U360,34,Male,Makassar,Bootcamp,2024-05-01,0.11
+U361,18,Female,Bandung,Bootcamp,2025-02-10,0.35
+U362,25,Female,Medan,Learning Plan,2024-03-29,0.94
+U363,37,Male,Medan,Learning Plan,2024-11-07,0.48
+U364,58,Female,Bandung,Bootcamp,2024-02-24,0.15
+U365,39,Female,Jakarta,Bootcamp,2024-01-25,0.72
+U366,46,Female,Surabaya,Learning Plan,2024-08-08,0.82
+U367,53,Female,Medan,Private Class,2024-04-12,0.25
+U368,41,Female,Jakarta,Bootcamp,2025-01-18,0.78
+U369,57,Female,Medan,Private Class,2024-07-21,0.26
+U370,47,Female,Bandung,Learning Plan,2023-03-24,0.48
+U371,56,Female,Bandung,Learning Plan,2024-09-26,0.85
+U372,52,Male,Jakarta,Bootcamp,2024-12-07,0.9
+U373,47,Female,Jakarta,Private Class,2023-04-05,0.93
+U374,38,Male,Jakarta,Bootcamp,2025-01-14,0.46
+U375,23,Male,Surabaya,Bootcamp,2023-12-17,0.2
+U376,34,Male,Medan,Bootcamp,2024-08-15,0.11
+U377,39,Female,Jakarta,Bootcamp,2024-12-21,0.14
+U378,44,Female,Medan,Private Class,2024-11-05,0.57
+U379,41,Male,Bandung,Learning Plan,2023-03-08,0.82
+U380,28,Male,Surabaya,Learning Plan,2023-06-06,0.99
+U381,53,Female,Surabaya,Learning Plan,2023-01-30,0.26
+U382,25,Male,Medan,Bootcamp,2023-11-12,0.53
+U383,53,Female,Makassar,Bootcamp,2024-05-03,0.41
+U384,46,Female,Surabaya,Learning Plan,2023-04-09,0.8
+U385,51,Female,Bandung,Learning Plan,2025-02-09,0.11
+U386,29,Male,Bandung,Bootcamp,2023-07-18,0.14
+U387,56,Female,Jakarta,Private Class,2024-07-24,0.22
+U388,43,Male,Medan,Bootcamp,2023-02-22,0.62
+U389,53,Male,Makassar,Bootcamp,2023-09-15,0.25
+U390,42,Male,Bandung,Learning Plan,2023-02-14,0.26
+U391,45,Female,Jakarta,Learning Plan,2023-04-03,0.36
+U392,48,Female,Medan,Learning Plan,2023-01-03,0.61
+U393,35,Male,Medan,Learning Plan,2023-03-15,0.31
+U394,44,Male,Surabaya,Learning Plan,2024-05-27,0.56
+U395,48,Male,Medan,Learning Plan,2024-06-14,0.58
+U396,19,Male,Surabaya,Private Class,2024-08-05,0.11
+U397,47,Female,Makassar,Private Class,2024-03-07,0.93
+U398,32,Male,Makassar,Learning Plan,2024-01-23,0.12
+U399,35,Male,Jakarta,Bootcamp,2024-04-03,0.49
+U400,36,Female,Medan,Private Class,2024-12-01,0.61
+U401,49,Male,Surabaya,Bootcamp,2024-11-25,0.6
+U402,30,Male,Surabaya,Learning Plan,2024-08-29,0.97
+U403,31,Male,Medan,Private Class,2023-12-30,0.43
+U404,39,Male,Surabaya,Bootcamp,2023-04-14,0.87
+U405,24,Male,Jakarta,Learning Plan,2024-07-28,0.21
+U406,55,Male,Medan,Bootcamp,2023-06-12,0.21
+U407,27,Female,Medan,Private Class,2023-10-11,0.34
+U408,20,Male,Jakarta,Learning Plan,2024-05-26,0.65
+U409,19,Female,Makassar,Learning Plan,2024-05-12,0.17
+U410,56,Female,Jakarta,Bootcamp,2023-07-04,0.21
+U411,39,Female,Surabaya,Bootcamp,2024-02-08,0.58
+U412,35,Male,Makassar,Bootcamp,2024-12-31,0.53
+U413,42,Female,Jakarta,Bootcamp,2024-07-20,0.15
+U414,46,Female,Bandung,Learning Plan,2023-11-02,0.67
+U415,29,Male,Makassar,Bootcamp,2024-11-19,0.22
+U416,28,Male,Surabaya,Bootcamp,2023-01-15,0.41
+U417,29,Male,Bandung,Bootcamp,2024-09-11,0.61
+U418,55,Female,Surabaya,Bootcamp,2023-10-27,0.6
+U419,59,Male,Surabaya,Learning Plan,2024-05-10,0.79
+U420,44,Female,Medan,Bootcamp,2023-11-12,0.7
+U421,51,Female,Surabaya,Bootcamp,2024-03-26,0.73
+U422,35,Male,Surabaya,Bootcamp,2023-10-13,0.13
+U423,51,Male,Makassar,Learning Plan,2023-12-12,0.26
+U424,54,Female,Makassar,Learning Plan,2024-06-30,0.44
+U425,59,Male,Surabaya,Learning Plan,2024-09-29,0.41
+U426,45,Male,Medan,Private Class,2023-05-23,0.9
+U427,47,Male,Bandung,Private Class,2023-11-09,0.94
+U428,36,Female,Medan,Bootcamp,2023-02-15,0.57
+U429,31,Male,Surabaya,Learning Plan,2024-12-21,0.88
+U430,58,Female,Jakarta,Private Class,2024-05-27,0.58
+U431,57,Male,Medan,Bootcamp,2024-10-27,0.52
+U432,18,Male,Medan,Learning Plan,2024-11-10,0.42
+U433,31,Male,Medan,Learning Plan,2023-07-06,0.38
+U434,38,Male,Jakarta,Private Class,2023-08-28,0.93
+U435,27,Female,Jakarta,Learning Plan,2023-12-28,0.68
+U436,35,Male,Medan,Learning Plan,2023-07-25,0.5
+U437,20,Male,Jakarta,Learning Plan,2023-07-02,0.49
+U438,44,Female,Jakarta,Private Class,2023-03-10,0.77
+U439,45,Female,Makassar,Learning Plan,2023-11-01,0.24
+U440,45,Male,Medan,Private Class,2024-12-30,0.67
+U441,58,Male,Jakarta,Learning Plan,2024-02-12,0.18
+U442,44,Female,Surabaya,Private Class,2023-04-16,0.27
+U443,33,Female,Surabaya,Learning Plan,2024-05-11,0.57
+U444,29,Female,Jakarta,Bootcamp,2023-05-04,0.71
+U445,26,Male,Bandung,Bootcamp,2023-08-14,0.87
+U446,48,Female,Makassar,Learning Plan,2023-01-24,0.83
+U447,24,Male,Jakarta,Private Class,2024-09-28,0.88
+U448,26,Female,Jakarta,Private Class,2024-03-27,0.73
+U449,42,Female,Bandung,Private Class,2024-09-03,0.71
+U450,54,Female,Surabaya,Private Class,2025-02-10,0.34
+U451,31,Male,Makassar,Private Class,2023-12-11,0.27
+U452,26,Male,Bandung,Learning Plan,2025-01-15,0.48
+U453,30,Male,Medan,Learning Plan,2024-01-22,0.94
+U454,35,Male,Surabaya,Bootcamp,2024-12-05,0.91
+U455,46,Female,Medan,Learning Plan,2023-09-29,0.38
+U456,48,Male,Makassar,Private Class,2023-09-14,0.92
+U457,37,Male,Medan,Private Class,2023-04-18,0.86
+U458,31,Female,Jakarta,Private Class,2024-09-01,0.21
+U459,33,Female,Surabaya,Private Class,2024-04-02,0.13
+U460,41,Female,Surabaya,Learning Plan,2023-06-09,0.31
+U461,47,Female,Medan,Private Class,2023-12-15,0.26
+U462,20,Male,Medan,Bootcamp,2025-01-14,0.87
+U463,28,Male,Jakarta,Learning Plan,2024-12-14,0.88
+U464,48,Female,Makassar,Private Class,2023-09-25,0.38
+U465,25,Female,Bandung,Private Class,2024-12-16,0.23
+U466,31,Female,Medan,Learning Plan,2023-04-13,0.51
+U467,58,Male,Jakarta,Bootcamp,2023-11-06,0.89
+U468,33,Male,Jakarta,Bootcamp,2024-09-08,0.92
+U469,45,Female,Makassar,Learning Plan,2024-03-02,0.9
+U470,55,Male,Makassar,Private Class,2024-06-02,0.14
+U471,35,Female,Surabaya,Bootcamp,2023-11-19,0.56
+U472,19,Female,Medan,Bootcamp,2023-01-01,0.62
+U473,26,Male,Makassar,Private Class,2024-02-26,0.68
+U474,48,Female,Surabaya,Learning Plan,2024-07-18,0.41
+U475,39,Male,Bandung,Bootcamp,2025-02-09,0.18
+U476,43,Male,Makassar,Private Class,2023-05-31,0.45
+U477,29,Female,Surabaya,Private Class,2023-03-13,0.86
+U478,26,Female,Makassar,Private Class,2024-04-22,0.9
+U479,50,Male,Bandung,Learning Plan,2024-02-08,0.97
+U480,42,Male,Makassar,Private Class,2024-10-19,0.59
+U481,42,Male,Bandung,Private Class,2023-05-17,0.2
+U482,56,Male,Bandung,Private Class,2024-09-14,0.3
+U483,40,Male,Medan,Learning Plan,2023-07-28,0.96
+U484,56,Female,Bandung,Private Class,2023-05-05,0.36
+U485,59,Male,Bandung,Bootcamp,2023-07-15,0.16
+U486,49,Male,Makassar,Bootcamp,2024-04-16,0.17
+U487,51,Female,Jakarta,Private Class,2024-08-15,0.16
+U488,54,Female,Surabaya,Private Class,2025-01-31,0.3
+U489,41,Female,Jakarta,Private Class,2024-08-03,0.49
+U490,30,Male,Surabaya,Private Class,2024-06-30,0.73
+U491,56,Female,Jakarta,Learning Plan,2024-09-13,0.35
+U492,22,Male,Bandung,Learning Plan,2024-09-06,0.65
+U493,26,Female,Surabaya,Private Class,2024-07-17,0.9
+U494,26,Male,Jakarta,Bootcamp,2024-11-23,0.79
+U495,46,Female,Makassar,Private Class,2023-08-01,0.27
+U496,51,Female,Jakarta,Learning Plan,2025-01-23,0.69
+U497,33,Female,Bandung,Private Class,2023-05-06,0.97
+U498,20,Male,Surabaya,Learning Plan,2023-10-24,0.35
+U499,44,Male,Medan,Private Class,2023-02-10,0.81
+U500,40,Female,Jakarta,Learning Plan,2025-02-12,0.9
+U501,40,Male,Medan,Bootcamp,2023-03-21,0.54
+U502,58,Male,Jakarta,Private Class,2023-09-09,0.39
+U503,33,Male,Bandung,Learning Plan,2024-05-06,0.24
+U504,46,Female,Makassar,Learning Plan,2023-04-04,0.77
+U505,51,Female,Makassar,Bootcamp,2023-03-01,0.39
+U506,54,Female,Surabaya,Learning Plan,2024-04-07,0.28
+U507,42,Female,Jakarta,Private Class,2024-03-02,0.6
+U508,58,Female,Makassar,Learning Plan,2024-09-11,0.31
+U509,21,Male,Medan,Learning Plan,2023-10-12,0.71
+U510,19,Female,Surabaya,Private Class,2023-02-28,0.6
+U511,32,Female,Medan,Bootcamp,2024-02-28,0.49
+U512,45,Male,Surabaya,Learning Plan,2024-04-19,0.23
+U513,44,Male,Bandung,Private Class,2024-07-28,0.87
+U514,40,Male,Makassar,Private Class,2025-02-01,0.56
+U515,35,Male,Surabaya,Private Class,2024-07-19,0.52
+U516,39,Male,Surabaya,Bootcamp,2024-08-22,0.38
+U517,46,Female,Jakarta,Bootcamp,2023-04-29,0.28
+U518,20,Female,Surabaya,Bootcamp,2023-07-28,0.93
+U519,39,Female,Surabaya,Learning Plan,2025-02-10,0.34
+U520,49,Male,Makassar,Learning Plan,2024-10-09,0.53
+U521,45,Female,Surabaya,Learning Plan,2025-01-06,0.56
+U522,42,Female,Surabaya,Bootcamp,2024-03-04,0.34
+U523,36,Female,Bandung,Private Class,2023-07-13,0.26
+U524,32,Female,Surabaya,Bootcamp,2024-06-12,0.37
+U525,22,Male,Surabaya,Bootcamp,2023-04-01,0.83
+U526,18,Female,Medan,Bootcamp,2023-05-24,0.37
+U527,51,Female,Bandung,Bootcamp,2024-06-18,0.29
+U528,54,Female,Jakarta,Bootcamp,2024-10-07,0.97
+U529,56,Male,Bandung,Bootcamp,2024-02-03,0.9
+U530,55,Female,Bandung,Bootcamp,2024-05-02,0.57
+U531,44,Male,Jakarta,Bootcamp,2023-11-04,0.78
+U532,42,Male,Medan,Private Class,2023-11-13,0.9
+U533,38,Female,Makassar,Bootcamp,2023-08-03,0.54
+U534,21,Male,Surabaya,Bootcamp,2023-06-27,0.62
+U535,42,Male,Medan,Learning Plan,2024-10-13,0.54
+U536,35,Male,Medan,Private Class,2023-01-16,0.54
+U537,57,Female,Medan,Bootcamp,2023-05-08,0.76
+U538,57,Male,Jakarta,Learning Plan,2024-05-04,0.76
+U539,25,Male,Surabaya,Bootcamp,2024-04-26,0.53
+U540,34,Male,Bandung,Learning Plan,2024-05-22,0.39
+U541,47,Male,Medan,Bootcamp,2023-02-16,0.4
+U542,21,Male,Bandung,Bootcamp,2023-10-19,0.38
+U543,34,Female,Jakarta,Private Class,2024-12-08,0.46
+U544,36,Female,Medan,Bootcamp,2024-06-24,0.87
+U545,56,Female,Bandung,Learning Plan,2024-08-08,0.58
+U546,32,Female,Bandung,Bootcamp,2023-11-18,0.34
+U547,32,Female,Bandung,Bootcamp,2024-02-12,0.94
+U548,38,Female,Surabaya,Learning Plan,2024-11-28,0.46
+U549,18,Female,Bandung,Learning Plan,2024-04-28,0.62
+U550,31,Female,Jakarta,Private Class,2023-07-31,0.74
+U551,57,Female,Makassar,Learning Plan,2023-02-24,0.34
+U552,26,Female,Surabaya,Private Class,2023-07-30,0.2
+U553,44,Female,Medan,Private Class,2023-12-08,0.79
+U554,40,Male,Medan,Bootcamp,2023-11-11,0.19
+U555,38,Female,Medan,Private Class,2024-11-10,0.33
+U556,18,Female,Surabaya,Private Class,2023-11-21,0.64
+U557,46,Female,Bandung,Bootcamp,2023-09-12,0.56
+U558,26,Male,Medan,Bootcamp,2023-02-06,0.6
+U559,21,Male,Makassar,Private Class,2024-02-18,0.57
+U560,45,Male,Bandung,Learning Plan,2025-01-03,0.28
+U561,53,Male,Makassar,Private Class,2024-05-17,0.43
+U562,50,Male,Surabaya,Learning Plan,2025-02-07,0.42
+U563,21,Male,Jakarta,Learning Plan,2023-06-11,0.85
+U564,53,Female,Medan,Bootcamp,2024-07-18,0.35
+U565,38,Male,Surabaya,Private Class,2024-11-09,0.21
+U566,34,Male,Medan,Learning Plan,2023-11-06,0.56
+U567,42,Male,Medan,Learning Plan,2024-06-27,0.54
+U568,54,Female,Medan,Learning Plan,2023-03-10,0.97
+U569,55,Male,Makassar,Private Class,2023-12-02,0.12
+U570,48,Female,Jakarta,Private Class,2023-01-12,0.51
+U571,26,Female,Makassar,Private Class,2025-01-11,0.3
+U572,35,Male,Jakarta,Private Class,2024-11-23,0.11
+U573,47,Female,Surabaya,Learning Plan,2023-03-20,0.17
+U574,37,Male,Makassar,Learning Plan,2024-09-06,0.59
+U575,34,Female,Bandung,Bootcamp,2023-07-30,0.28
+U576,51,Female,Jakarta,Learning Plan,2024-04-07,0.7
+U577,52,Female,Bandung,Learning Plan,2024-12-18,0.56
+U578,58,Male,Bandung,Private Class,2024-03-19,0.43
+U579,40,Male,Bandung,Learning Plan,2024-03-26,0.98
+U580,30,Male,Bandung,Private Class,2024-11-13,0.94
+U581,43,Male,Medan,Private Class,2023-04-21,0.8
+U582,51,Male,Makassar,Bootcamp,2024-06-13,0.36
+U583,41,Male,Bandung,Learning Plan,2023-10-26,0.53
+U584,47,Male,Medan,Learning Plan,2024-12-27,0.83
+U585,49,Male,Bandung,Learning Plan,2023-02-23,0.98
+U586,34,Female,Surabaya,Learning Plan,2023-10-28,0.39
+U587,48,Male,Medan,Learning Plan,2024-04-22,0.31
+U588,27,Male,Makassar,Bootcamp,2024-09-19,0.2
+U589,22,Male,Bandung,Learning Plan,2024-11-19,0.75
+U590,58,Male,Jakarta,Learning Plan,2023-08-19,0.87
+U591,37,Female,Makassar,Private Class,2023-03-10,0.16
+U592,54,Male,Jakarta,Bootcamp,2024-08-28,0.62
+U593,54,Female,Medan,Private Class,2023-10-23,0.76
+U594,39,Male,Bandung,Private Class,2023-07-20,0.23
+U595,26,Female,Surabaya,Bootcamp,2023-05-27,0.55
+U596,41,Male,Bandung,Private Class,2023-08-17,0.83
+U597,18,Female,Surabaya,Bootcamp,2023-03-06,0.9
+U598,43,Female,Jakarta,Private Class,2023-05-26,0.39
+U599,53,Female,Jakarta,Bootcamp,2024-08-05,0.77
+U600,23,Male,Medan,Private Class,2024-05-25,0.18
+U601,44,Female,Jakarta,Learning Plan,2023-11-21,0.47
+U602,34,Male,Bandung,Private Class,2023-04-01,0.63
+U603,18,Female,Makassar,Bootcamp,2024-12-23,0.79
+U604,37,Female,Bandung,Bootcamp,2024-09-13,0.77
+U605,25,Female,Bandung,Private Class,2023-04-01,0.96
+U606,59,Female,Makassar,Private Class,2024-12-22,0.73
+U607,53,Female,Bandung,Private Class,2023-12-22,0.59
+U608,19,Female,Surabaya,Private Class,2023-03-05,0.19
+U609,59,Male,Bandung,Bootcamp,2023-10-05,0.52
+U610,42,Female,Bandung,Learning Plan,2023-05-27,0.38
+U611,39,Female,Medan,Bootcamp,2023-03-14,0.71
+U612,47,Female,Bandung,Learning Plan,2025-01-07,0.49
+U613,30,Male,Surabaya,Bootcamp,2024-10-02,0.72
+U614,29,Male,Jakarta,Private Class,2023-05-18,0.33
+U615,28,Female,Jakarta,Bootcamp,2024-09-23,0.54
+U616,55,Male,Makassar,Learning Plan,2024-05-28,0.57
+U617,43,Female,Makassar,Learning Plan,2023-07-06,0.29
+U618,53,Male,Medan,Bootcamp,2023-10-07,0.92
+U619,24,Female,Surabaya,Private Class,2024-02-05,0.22
+U620,57,Female,Surabaya,Learning Plan,2024-12-26,0.44
+U621,32,Male,Medan,Private Class,2025-02-02,0.37
+U622,21,Male,Surabaya,Private Class,2023-06-22,0.19
+U623,47,Female,Makassar,Private Class,2023-10-22,0.57
+U624,45,Male,Surabaya,Bootcamp,2024-01-27,0.48
+U625,51,Male,Makassar,Private Class,2023-09-22,0.48
+U626,22,Female,Makassar,Bootcamp,2025-02-11,0.46
+U627,21,Female,Bandung,Bootcamp,2024-08-19,0.94
+U628,33,Male,Medan,Learning Plan,2023-09-18,0.7
+U629,49,Male,Medan,Learning Plan,2023-09-03,0.51
+U630,23,Male,Surabaya,Bootcamp,2023-12-19,0.49
+U631,51,Male,Jakarta,Learning Plan,2023-09-13,0.29
+U632,45,Female,Medan,Private Class,2024-09-29,0.3
+U633,19,Male,Bandung,Learning Plan,2023-07-23,0.49
+U634,31,Female,Medan,Private Class,2024-08-01,0.77
+U635,59,Female,Makassar,Learning Plan,2024-05-11,0.23
+U636,24,Male,Bandung,Bootcamp,2023-07-28,0.88
+U637,22,Male,Surabaya,Private Class,2023-05-21,0.95
+U638,25,Female,Surabaya,Learning Plan,2023-04-28,0.48
+U639,21,Male,Surabaya,Bootcamp,2024-06-03,1.0
+U640,19,Female,Makassar,Bootcamp,2024-07-21,0.59
+U641,48,Female,Makassar,Learning Plan,2023-08-01,0.47
+U642,24,Female,Surabaya,Learning Plan,2024-09-06,0.13
+U643,44,Female,Surabaya,Learning Plan,2024-01-13,0.95
+U644,40,Female,Bandung,Private Class,2024-05-09,0.73
+U645,33,Male,Surabaya,Private Class,2024-11-11,0.49
+U646,44,Female,Surabaya,Bootcamp,2025-02-01,0.32
+U647,54,Female,Jakarta,Learning Plan,2025-01-14,0.46
+U648,42,Male,Surabaya,Private Class,2023-05-31,0.66
+U649,37,Male,Jakarta,Bootcamp,2023-11-16,0.81
+U650,34,Female,Bandung,Private Class,2024-07-26,0.27
+U651,49,Male,Surabaya,Private Class,2024-01-08,0.67
+U652,38,Male,Surabaya,Bootcamp,2024-10-12,0.48
+U653,18,Female,Makassar,Learning Plan,2023-02-26,0.53
+U654,48,Female,Medan,Learning Plan,2023-10-10,0.56
+U655,27,Female,Medan,Learning Plan,2023-07-10,0.6
+U656,41,Female,Surabaya,Learning Plan,2024-08-23,1.0
+U657,40,Male,Makassar,Learning Plan,2024-09-13,0.17
+U658,27,Female,Medan,Learning Plan,2024-02-08,0.87
+U659,39,Male,Medan,Bootcamp,2024-09-09,0.84
+U660,32,Female,Makassar,Learning Plan,2023-10-24,0.9
+U661,26,Male,Jakarta,Learning Plan,2023-04-07,0.84
+U662,41,Female,Makassar,Bootcamp,2023-10-29,0.38
+U663,45,Female,Surabaya,Private Class,2024-05-22,0.54
+U664,40,Male,Jakarta,Private Class,2023-05-11,0.78
+U665,59,Male,Makassar,Learning Plan,2023-06-10,0.59
+U666,33,Male,Makassar,Private Class,2023-11-12,0.57
+U667,46,Male,Medan,Private Class,2024-07-15,0.49
+U668,56,Male,Makassar,Learning Plan,2024-02-16,0.17
+U669,37,Female,Medan,Private Class,2024-10-12,0.4
+U670,28,Male,Jakarta,Learning Plan,2023-11-18,0.65
+U671,46,Male,Bandung,Private Class,2023-05-22,0.62
+U672,45,Female,Bandung,Learning Plan,2024-03-04,0.55
+U673,48,Male,Surabaya,Private Class,2023-06-01,0.45
+U674,37,Female,Jakarta,Learning Plan,2024-06-13,0.96
+U675,43,Male,Medan,Learning Plan,2023-09-20,0.73
+U676,34,Female,Medan,Bootcamp,2024-09-15,0.76
+U677,22,Male,Bandung,Private Class,2023-05-29,0.78
+U678,38,Female,Medan,Bootcamp,2024-12-26,0.31
+U679,37,Female,Jakarta,Bootcamp,2024-04-25,0.27
+U680,53,Female,Bandung,Bootcamp,2024-10-04,0.54
+U681,26,Female,Makassar,Learning Plan,2024-07-08,0.32
+U682,59,Female,Jakarta,Private Class,2023-09-04,0.55
+U683,57,Female,Makassar,Learning Plan,2024-06-11,0.13
+U684,37,Male,Medan,Bootcamp,2024-04-04,0.17
+U685,59,Male,Bandung,Learning Plan,2025-01-20,0.15
+U686,32,Male,Makassar,Private Class,2024-03-10,0.23
+U687,35,Male,Medan,Learning Plan,2024-05-10,0.53
+U688,42,Male,Jakarta,Private Class,2024-06-18,0.43
+U689,36,Male,Makassar,Bootcamp,2023-11-06,0.9
+U690,41,Female,Medan,Bootcamp,2023-08-06,0.39
+U691,29,Male,Jakarta,Bootcamp,2024-09-23,0.61
+U692,20,Female,Medan,Bootcamp,2024-11-21,0.39
+U693,43,Female,Jakarta,Learning Plan,2023-10-23,0.93
+U694,54,Female,Bandung,Private Class,2023-02-16,0.93
+U695,18,Female,Makassar,Bootcamp,2024-11-13,0.34
+U696,37,Female,Surabaya,Private Class,2025-01-24,0.25
+U697,43,Female,Makassar,Private Class,2023-02-01,0.74
+U698,31,Female,Surabaya,Learning Plan,2023-04-24,0.48
+U699,25,Male,Bandung,Bootcamp,2023-07-05,0.66
+U700,38,Male,Makassar,Learning Plan,2023-11-19,0.9
+U701,26,Male,Medan,Private Class,2023-07-24,0.36
+U702,53,Female,Surabaya,Private Class,2024-02-24,0.36
+U703,32,Female,Makassar,Learning Plan,2024-05-28,0.49
+U704,22,Female,Surabaya,Learning Plan,2023-05-09,0.43
+U705,21,Female,Bandung,Private Class,2023-01-15,0.97
+U706,34,Female,Jakarta,Learning Plan,2024-09-30,0.78
+U707,48,Female,Surabaya,Private Class,2024-04-16,0.5
+U708,29,Female,Medan,Learning Plan,2024-06-25,0.37
+U709,56,Male,Medan,Bootcamp,2024-07-09,0.81
+U710,39,Male,Surabaya,Learning Plan,2023-10-22,0.53
+U711,58,Male,Medan,Learning Plan,2023-06-25,0.35
+U712,29,Female,Makassar,Private Class,2023-01-06,0.75
+U713,55,Female,Medan,Bootcamp,2023-05-06,0.6
+U714,36,Female,Jakarta,Bootcamp,2024-05-07,0.17
+U715,43,Female,Makassar,Private Class,2025-01-30,0.15
+U716,45,Male,Makassar,Bootcamp,2023-06-05,0.85
+U717,29,Male,Makassar,Learning Plan,2025-02-10,0.94
+U718,59,Female,Medan,Bootcamp,2024-01-24,0.75
+U719,57,Male,Surabaya,Learning Plan,2024-02-17,0.95
+U720,44,Female,Bandung,Learning Plan,2023-10-12,0.77
+U721,42,Male,Medan,Private Class,2024-12-04,0.2
+U722,42,Male,Bandung,Learning Plan,2025-01-13,0.54
+U723,18,Female,Bandung,Learning Plan,2024-12-08,0.37
+U724,45,Male,Bandung,Private Class,2024-11-14,0.37
+U725,28,Male,Medan,Bootcamp,2023-12-14,0.43
+U726,43,Female,Medan,Bootcamp,2024-02-04,0.99
+U727,37,Male,Surabaya,Learning Plan,2024-09-07,0.69
+U728,50,Female,Bandung,Bootcamp,2024-05-28,0.5
+U729,46,Male,Surabaya,Learning Plan,2023-10-02,0.4
+U730,46,Male,Medan,Bootcamp,2023-02-07,0.62
+U731,19,Male,Medan,Private Class,2023-08-14,0.62
+U732,34,Male,Bandung,Learning Plan,2024-11-21,0.48
+U733,22,Male,Jakarta,Learning Plan,2024-07-29,0.8
+U734,37,Male,Surabaya,Bootcamp,2023-07-02,0.36
+U735,50,Male,Medan,Learning Plan,2024-10-11,0.77
+U736,58,Male,Surabaya,Learning Plan,2023-06-28,0.28
+U737,48,Male,Bandung,Learning Plan,2023-10-04,0.23
+U738,33,Male,Bandung,Private Class,2024-11-17,0.41
+U739,30,Male,Bandung,Learning Plan,2023-10-14,0.51
+U740,28,Male,Surabaya,Learning Plan,2023-12-26,0.3
+U741,28,Female,Surabaya,Private Class,2023-05-24,0.51
+U742,42,Male,Medan,Bootcamp,2023-04-28,0.78
+U743,25,Female,Medan,Bootcamp,2024-07-10,0.77
+U744,31,Male,Surabaya,Learning Plan,2024-03-11,0.85
+U745,28,Female,Surabaya,Bootcamp,2024-09-17,0.3
+U746,32,Female,Medan,Private Class,2023-06-06,0.75
+U747,47,Female,Jakarta,Learning Plan,2024-12-20,0.35
+U748,47,Female,Jakarta,Private Class,2024-08-17,0.49
+U749,48,Male,Surabaya,Learning Plan,2023-05-05,0.26
+U750,34,Female,Medan,Learning Plan,2024-09-13,0.45
+U751,38,Male,Makassar,Bootcamp,2024-08-29,0.39
+U752,33,Male,Makassar,Bootcamp,2024-04-15,0.57
+U753,35,Male,Medan,Private Class,2024-10-01,0.53
+U754,52,Female,Bandung,Bootcamp,2024-04-04,0.64
+U755,56,Male,Bandung,Bootcamp,2023-10-12,0.16
+U756,40,Male,Surabaya,Learning Plan,2024-04-21,0.29
+U757,58,Male,Bandung,Bootcamp,2023-06-01,0.57
+U758,50,Male,Surabaya,Private Class,2023-01-07,0.12
+U759,46,Female,Makassar,Bootcamp,2024-08-18,0.11
+U760,30,Female,Jakarta,Learning Plan,2023-07-02,0.49
+U761,33,Female,Medan,Private Class,2024-01-28,0.46
+U762,52,Male,Surabaya,Bootcamp,2024-02-24,0.51
+U763,19,Male,Surabaya,Private Class,2023-09-17,0.34
+U764,46,Male,Makassar,Learning Plan,2024-06-12,0.2
+U765,27,Female,Bandung,Private Class,2024-06-30,0.42
+U766,30,Male,Surabaya,Bootcamp,2024-04-25,0.63
+U767,55,Male,Bandung,Learning Plan,2023-01-04,0.38
+U768,33,Female,Surabaya,Bootcamp,2024-12-17,0.11
+U769,56,Male,Makassar,Private Class,2023-03-24,0.88
+U770,49,Male,Jakarta,Learning Plan,2024-11-26,0.62
+U771,28,Female,Medan,Learning Plan,2024-03-02,0.72
+U772,32,Male,Medan,Learning Plan,2023-09-06,0.21
+U773,58,Female,Jakarta,Private Class,2023-12-28,0.26
+U774,51,Male,Makassar,Learning Plan,2024-11-16,0.98
+U775,43,Male,Makassar,Private Class,2023-05-07,0.63
+U776,49,Female,Makassar,Private Class,2025-01-07,0.11
+U777,43,Male,Medan,Bootcamp,2024-01-26,0.86
+U778,19,Male,Makassar,Bootcamp,2024-01-10,0.38
+U779,29,Female,Surabaya,Bootcamp,2023-11-28,0.56
+U780,40,Female,Jakarta,Bootcamp,2023-05-20,0.2
+U781,58,Female,Makassar,Bootcamp,2024-03-21,0.94
+U782,19,Male,Jakarta,Private Class,2023-02-08,0.42
+U783,43,Male,Surabaya,Learning Plan,2024-08-20,0.28
+U784,33,Female,Makassar,Private Class,2025-01-23,0.94
+U785,50,Female,Jakarta,Bootcamp,2024-01-14,0.37
+U786,57,Male,Bandung,Private Class,2024-02-05,0.18
+U787,55,Female,Bandung,Learning Plan,2024-03-28,0.9
+U788,32,Female,Medan,Learning Plan,2023-03-04,0.78
+U789,55,Female,Jakarta,Bootcamp,2024-04-23,0.78
+U790,47,Male,Jakarta,Private Class,2024-01-06,0.32
+U791,18,Male,Medan,Learning Plan,2025-02-06,0.95
+U792,57,Female,Jakarta,Learning Plan,2023-06-30,0.11
+U793,26,Male,Bandung,Bootcamp,2024-12-22,0.11
+U794,47,Male,Jakarta,Private Class,2024-11-26,0.61
+U795,59,Male,Bandung,Learning Plan,2023-10-25,0.12
+U796,46,Female,Makassar,Learning Plan,2024-12-09,0.11
+U797,32,Female,Bandung,Bootcamp,2023-10-12,0.94
+U798,20,Male,Bandung,Private Class,2024-03-06,0.61
+U799,56,Female,Jakarta,Private Class,2024-07-12,0.14
+U800,45,Female,Makassar,Learning Plan,2023-02-25,0.93
+U801,37,Male,Medan,Bootcamp,2024-03-10,0.49
+U802,52,Male,Medan,Private Class,2023-01-13,0.5
+U803,22,Male,Medan,Learning Plan,2024-02-21,0.16
+U804,44,Male,Jakarta,Bootcamp,2024-10-17,0.4
+U805,25,Male,Jakarta,Learning Plan,2024-12-02,0.47
+U806,49,Male,Jakarta,Learning Plan,2025-01-26,0.53
+U807,20,Male,Jakarta,Private Class,2024-09-22,0.26
+U808,41,Male,Medan,Private Class,2024-12-20,0.89
+U809,45,Female,Medan,Learning Plan,2025-01-26,0.67
+U810,37,Female,Surabaya,Private Class,2024-02-07,0.62
+U811,23,Male,Jakarta,Bootcamp,2023-12-25,0.29
+U812,47,Female,Jakarta,Bootcamp,2024-04-15,0.9
+U813,20,Female,Medan,Private Class,2023-01-12,0.29
+U814,54,Male,Makassar,Learning Plan,2023-08-14,0.17
+U815,23,Male,Bandung,Bootcamp,2023-02-12,0.47
+U816,24,Male,Bandung,Private Class,2023-02-12,0.36
+U817,27,Male,Makassar,Bootcamp,2023-02-27,0.89
+U818,28,Female,Bandung,Private Class,2024-05-06,0.39
+U819,37,Female,Surabaya,Bootcamp,2023-09-06,0.74
+U820,40,Female,Bandung,Bootcamp,2023-12-29,0.6
+U821,25,Male,Medan,Bootcamp,2023-09-15,0.53
+U822,55,Female,Jakarta,Private Class,2024-01-14,0.48
+U823,50,Male,Medan,Bootcamp,2024-12-19,0.96
+U824,23,Female,Bandung,Bootcamp,2025-01-10,0.33
+U825,37,Female,Jakarta,Private Class,2024-05-04,0.94
+U826,53,Female,Surabaya,Learning Plan,2023-05-12,0.72
+U827,51,Male,Bandung,Bootcamp,2023-12-07,0.73
+U828,45,Male,Surabaya,Bootcamp,2024-09-13,0.71
+U829,24,Female,Medan,Bootcamp,2023-01-29,0.13
+U830,38,Male,Jakarta,Learning Plan,2024-05-31,0.12
+U831,53,Male,Medan,Bootcamp,2024-12-16,0.16
+U832,26,Male,Bandung,Learning Plan,2023-12-31,0.53
+U833,42,Female,Bandung,Learning Plan,2024-06-12,0.98
+U834,26,Female,Jakarta,Bootcamp,2024-07-27,0.62
+U835,23,Female,Bandung,Private Class,2023-02-20,0.85
+U836,50,Male,Bandung,Learning Plan,2024-04-13,0.44
+U837,54,Female,Jakarta,Private Class,2023-03-31,0.36
+U838,49,Female,Bandung,Private Class,2023-01-02,0.45
+U839,37,Female,Jakarta,Bootcamp,2024-01-30,0.46
+U840,59,Male,Jakarta,Learning Plan,2024-11-25,0.66
+U841,54,Male,Jakarta,Private Class,2024-06-30,0.93
+U842,41,Female,Makassar,Private Class,2023-05-24,0.11
+U843,42,Male,Surabaya,Private Class,2024-09-13,0.73
+U844,24,Male,Jakarta,Bootcamp,2024-11-16,0.71
+U845,29,Male,Jakarta,Private Class,2024-05-11,0.26
+U846,47,Male,Jakarta,Bootcamp,2024-05-10,0.91
+U847,46,Female,Bandung,Learning Plan,2023-12-06,0.52
+U848,33,Female,Makassar,Private Class,2024-07-09,0.63
+U849,31,Female,Medan,Learning Plan,2024-06-27,0.74
+U850,19,Female,Surabaya,Learning Plan,2023-07-14,0.58
+U851,49,Male,Surabaya,Learning Plan,2024-04-06,0.62
+U852,40,Female,Bandung,Learning Plan,2024-06-17,0.87
+U853,49,Male,Makassar,Private Class,2024-12-17,0.59
+U854,22,Male,Makassar,Private Class,2024-12-23,0.24
+U855,50,Male,Medan,Learning Plan,2023-11-06,0.39
+U856,55,Female,Jakarta,Private Class,2024-05-06,0.48
+U857,42,Female,Bandung,Private Class,2023-04-23,0.39
+U858,39,Male,Surabaya,Bootcamp,2025-01-01,0.24
+U859,36,Male,Medan,Private Class,2024-04-25,0.33
+U860,51,Female,Medan,Learning Plan,2024-08-27,0.22
+U861,29,Female,Medan,Private Class,2024-05-31,0.62
+U862,38,Female,Medan,Private Class,2023-03-15,0.57
+U863,35,Female,Bandung,Private Class,2024-03-05,0.3
+U864,29,Male,Bandung,Bootcamp,2024-01-23,0.67
+U865,57,Male,Medan,Learning Plan,2023-08-06,0.91
+U866,51,Female,Surabaya,Private Class,2023-05-16,0.61
+U867,39,Male,Jakarta,Private Class,2025-01-22,0.79
+U868,33,Male,Makassar,Private Class,2023-08-28,0.7
+U869,27,Male,Makassar,Private Class,2024-01-26,0.26
+U870,52,Female,Jakarta,Bootcamp,2023-02-09,0.38
+U871,33,Female,Surabaya,Learning Plan,2023-03-20,0.11
+U872,37,Female,Bandung,Private Class,2023-10-10,0.73
+U873,46,Female,Medan,Learning Plan,2023-10-28,0.44
+U874,53,Male,Medan,Bootcamp,2023-02-22,0.29
+U875,49,Male,Jakarta,Learning Plan,2023-03-30,0.83
+U876,51,Male,Bandung,Private Class,2024-07-23,0.71
+U877,49,Female,Surabaya,Bootcamp,2023-09-10,0.58
+U878,51,Male,Jakarta,Private Class,2025-01-22,0.46
+U879,51,Male,Bandung,Learning Plan,2025-02-13,0.68
+U880,34,Female,Medan,Learning Plan,2023-03-22,0.36
+U881,48,Female,Surabaya,Learning Plan,2024-06-21,0.71
+U882,59,Male,Medan,Bootcamp,2024-01-22,0.49
+U883,39,Female,Surabaya,Private Class,2024-12-22,0.39
+U884,58,Male,Makassar,Private Class,2024-12-21,0.8
+U885,22,Male,Jakarta,Learning Plan,2023-03-21,0.49
+U886,31,Female,Surabaya,Private Class,2023-09-02,0.43
+U887,36,Male,Surabaya,Learning Plan,2024-11-12,0.56
+U888,55,Male,Bandung,Bootcamp,2024-03-19,0.88
+U889,31,Female,Surabaya,Learning Plan,2023-11-28,0.58
+U890,53,Male,Medan,Private Class,2023-02-19,0.25
+U891,50,Male,Bandung,Private Class,2025-01-23,0.12
+U892,29,Female,Makassar,Bootcamp,2024-04-06,0.27
+U893,55,Male,Medan,Learning Plan,2023-02-14,0.34
+U894,48,Female,Bandung,Bootcamp,2024-09-25,0.24
+U895,39,Female,Jakarta,Bootcamp,2024-01-30,0.46
+U896,44,Female,Bandung,Learning Plan,2024-11-01,0.6
+U897,32,Male,Medan,Learning Plan,2023-01-10,0.44
+U898,25,Male,Jakarta,Bootcamp,2023-10-16,0.42
+U899,43,Male,Jakarta,Learning Plan,2023-12-25,0.11
+U900,56,Male,Jakarta,Learning Plan,2023-02-16,0.36
+U901,38,Male,Jakarta,Learning Plan,2023-11-10,0.18
+U902,50,Female,Jakarta,Private Class,2024-04-03,0.3
+U903,31,Male,Surabaya,Bootcamp,2024-03-02,0.29
+U904,31,Female,Jakarta,Private Class,2023-12-03,0.53
+U905,31,Male,Bandung,Bootcamp,2024-11-25,0.64
+U906,59,Female,Jakarta,Bootcamp,2024-08-24,0.55
+U907,30,Female,Bandung,Learning Plan,2024-03-11,0.34
+U908,45,Male,Surabaya,Private Class,2025-02-01,0.7
+U909,25,Female,Medan,Bootcamp,2024-06-18,0.82
+U910,38,Female,Makassar,Learning Plan,2023-06-15,0.41
+U911,37,Female,Bandung,Bootcamp,2024-09-12,0.78
+U912,27,Female,Jakarta,Private Class,2023-11-15,0.44
+U913,22,Male,Makassar,Private Class,2024-04-18,0.66
+U914,58,Male,Bandung,Bootcamp,2024-01-13,0.97
+U915,27,Male,Surabaya,Learning Plan,2023-05-25,0.74
+U916,18,Female,Makassar,Private Class,2023-12-08,0.3
+U917,51,Male,Makassar,Learning Plan,2023-12-18,0.76
+U918,44,Male,Bandung,Private Class,2023-11-06,0.13
+U919,54,Female,Makassar,Bootcamp,2024-04-06,0.94
+U920,59,Male,Surabaya,Private Class,2025-01-22,0.12
+U921,48,Male,Bandung,Learning Plan,2024-07-18,0.7
+U922,56,Female,Makassar,Private Class,2024-07-17,0.5
+U923,58,Male,Medan,Learning Plan,2024-01-15,0.26
+U924,46,Male,Medan,Bootcamp,2023-06-09,0.62
+U925,32,Female,Makassar,Learning Plan,2023-05-05,0.72
+U926,33,Male,Bandung,Learning Plan,2023-10-21,0.89
+U927,24,Male,Makassar,Bootcamp,2024-05-14,0.31
+U928,54,Female,Makassar,Learning Plan,2025-02-14,0.98
+U929,51,Female,Medan,Learning Plan,2024-11-22,0.68
+U930,53,Male,Surabaya,Private Class,2023-04-13,0.11
+U931,40,Female,Jakarta,Bootcamp,2023-03-16,0.79
+U932,27,Male,Bandung,Private Class,2024-12-02,0.41
+U933,57,Male,Surabaya,Learning Plan,2024-06-03,0.66
+U934,19,Male,Jakarta,Bootcamp,2023-10-22,0.82
+U935,18,Female,Makassar,Private Class,2023-10-02,0.88
+U936,19,Male,Medan,Private Class,2025-02-01,0.33
+U937,31,Male,Surabaya,Private Class,2024-12-18,0.14
+U938,41,Male,Makassar,Learning Plan,2023-11-22,0.73
+U939,19,Male,Jakarta,Bootcamp,2024-05-02,0.2
+U940,52,Female,Makassar,Learning Plan,2024-06-01,0.23
+U941,52,Female,Jakarta,Learning Plan,2024-02-14,0.17
+U942,35,Male,Jakarta,Private Class,2024-11-01,0.98
+U943,32,Female,Jakarta,Bootcamp,2023-11-29,0.19
+U944,25,Female,Medan,Learning Plan,2024-08-30,0.94
+U945,36,Male,Surabaya,Private Class,2023-12-10,0.93
+U946,22,Male,Surabaya,Private Class,2024-04-07,0.23
+U947,58,Female,Makassar,Bootcamp,2023-12-05,0.86
+U948,38,Male,Surabaya,Bootcamp,2023-12-23,0.46
+U949,34,Female,Surabaya,Bootcamp,2023-01-29,0.21
+U950,31,Male,Makassar,Learning Plan,2023-05-31,0.36
+U951,41,Female,Bandung,Bootcamp,2023-05-14,0.19
+U952,39,Female,Jakarta,Learning Plan,2024-10-23,0.21
+U953,34,Female,Surabaya,Bootcamp,2025-02-02,0.63
+U954,41,Male,Bandung,Bootcamp,2023-02-19,0.53
+U955,24,Female,Bandung,Learning Plan,2023-05-01,0.98
+U956,33,Female,Makassar,Private Class,2023-10-19,0.53
+U957,38,Male,Makassar,Private Class,2023-05-05,0.93
+U958,18,Male,Jakarta,Learning Plan,2024-05-29,0.5
+U959,50,Male,Makassar,Bootcamp,2023-07-31,0.69
+U960,45,Female,Surabaya,Private Class,2023-04-01,0.15
+U961,59,Female,Jakarta,Learning Plan,2024-10-03,0.9
+U962,52,Male,Medan,Private Class,2024-03-31,0.21
+U963,44,Male,Bandung,Learning Plan,2024-04-18,0.59
+U964,38,Female,Surabaya,Private Class,2024-03-28,0.97
+U965,30,Male,Jakarta,Private Class,2023-03-06,0.9
+U966,43,Female,Bandung,Learning Plan,2024-03-10,0.73
+U967,57,Female,Makassar,Learning Plan,2024-07-26,0.33
+U968,34,Female,Bandung,Bootcamp,2025-01-13,0.72
+U969,34,Female,Makassar,Learning Plan,2023-09-22,0.53
+U970,45,Female,Medan,Private Class,2024-11-06,0.48
+U971,52,Male,Medan,Bootcamp,2024-02-22,0.75
+U972,30,Female,Bandung,Bootcamp,2024-08-20,0.52
+U973,52,Male,Makassar,Private Class,2023-07-07,0.89
+U974,59,Male,Makassar,Learning Plan,2023-08-03,0.9
+U975,20,Female,Jakarta,Bootcamp,2023-11-10,0.94
+U976,37,Male,Surabaya,Learning Plan,2024-12-20,0.17
+U977,54,Male,Jakarta,Bootcamp,2024-05-23,0.49
+U978,21,Female,Jakarta,Private Class,2023-12-26,0.6
+U979,45,Male,Surabaya,Learning Plan,2024-08-08,0.71
+U980,33,Female,Makassar,Bootcamp,2023-10-16,0.32
+U981,55,Male,Medan,Private Class,2023-09-14,0.77
+U982,53,Female,Bandung,Learning Plan,2023-01-20,0.96
+U983,30,Female,Makassar,Bootcamp,2024-10-08,0.58
+U984,24,Female,Makassar,Bootcamp,2024-09-17,0.92
+U985,36,Female,Jakarta,Bootcamp,2023-03-03,0.52
+U986,33,Male,Surabaya,Private Class,2024-04-01,0.68
+U987,38,Male,Medan,Private Class,2025-01-03,0.8
+U988,30,Male,Jakarta,Private Class,2023-10-27,0.9
+U989,41,Female,Makassar,Learning Plan,2024-03-14,0.53
+U990,46,Male,Jakarta,Learning Plan,2023-06-08,0.94
+U991,47,Male,Makassar,Learning Plan,2024-04-29,0.42
+U992,29,Female,Jakarta,Bootcamp,2023-04-05,0.53
+U993,28,Male,Surabaya,Private Class,2023-01-28,0.75
+U994,40,Female,Bandung,Bootcamp,2023-02-23,0.74
+U995,49,Female,Bandung,Learning Plan,2024-03-19,0.18
+U996,45,Male,Bandung,Private Class,2023-05-12,0.77
+U997,49,Female,Medan,Learning Plan,2023-02-15,0.48
+U998,21,Male,Medan,Bootcamp,2023-07-24,0.17
+U999,59,Female,Jakarta,Private Class,2024-01-04,0.57
+U1000,18,Male,Surabaya,Learning Plan,2024-11-01,0.93

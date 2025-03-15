@@ -1,0 +1,51 @@
+Ad_ID,Platform,Ad_Type,Product_Type,Sentiment_Score,Target_Audience,Created_Date
+A001,TikTok,Carousel,Bootcamp,0.78,Intermediate,2023-11-28
+A002,TikTok,Image,Live Code,0.37,Beginner,2024-04-30
+A003,Meta Ads,Carousel,Bootcamp,0.59,Intermediate,2023-10-08
+A004,TikTok,Video,Bootcamp,0.25,Advanced,2024-08-25
+A005,Meta Ads,Image,Live Code,0.94,Beginner,2023-04-11
+A006,Meta Ads,Video,Bootcamp,0.28,Beginner,2023-01-15
+A007,Meta Ads,Video,Bootcamp,0.82,Advanced,2023-08-05
+A008,TikTok,Image,Live Code,0.62,Beginner,2023-12-08
+A009,TikTok,Video,Learning Plan,0.92,Advanced,2023-08-24
+A010,TikTok,Video,Bootcamp,0.73,Advanced,2023-02-16
+A011,Meta Ads,Carousel,Bootcamp,0.51,Advanced,2024-01-18
+A012,Meta Ads,Carousel,Bootcamp,0.47,Intermediate,2024-09-30
+A013,TikTok,Carousel,Live Code,0.54,Beginner,2024-04-11
+A014,TikTok,Image,Learning Plan,0.76,Beginner,2024-03-31
+A015,TikTok,Video,Live Code,0.88,Intermediate,2023-09-27
+A016,Meta Ads,Carousel,Bootcamp,0.17,Beginner,2025-01-11
+A017,TikTok,Image,Live Code,0.33,Beginner,2023-08-02
+A018,TikTok,Image,Bootcamp,0.12,Beginner,2023-05-22
+A019,TikTok,Image,Learning Plan,0.43,Advanced,2024-04-24
+A020,Meta Ads,Image,Live Code,0.46,Intermediate,2024-02-27
+A021,Meta Ads,Carousel,Live Code,0.78,Beginner,2025-01-16
+A022,TikTok,Video,Bootcamp,0.75,Beginner,2025-01-24
+A023,Meta Ads,Video,Live Code,0.37,Beginner,2024-07-28
+A024,TikTok,Image,Bootcamp,0.48,Advanced,2023-10-05
+A025,Meta Ads,Video,Live Code,0.79,Beginner,2024-02-07
+A026,TikTok,Video,Bootcamp,0.72,Advanced,2023-10-23
+A027,TikTok,Carousel,Bootcamp,0.7,Intermediate,2024-01-29
+A028,Meta Ads,Image,Bootcamp,0.64,Beginner,2024-03-13
+A029,Meta Ads,Carousel,Live Code,0.17,Advanced,2023-11-09
+A030,TikTok,Video,Learning Plan,0.47,Intermediate,2024-10-13
+A031,TikTok,Video,Live Code,0.59,Advanced,2023-07-14
+A032,Meta Ads,Video,Learning Plan,0.31,Advanced,2024-06-03
+A033,Meta Ads,Carousel,Learning Plan,0.77,Advanced,2023-03-14
+A034,Meta Ads,Image,Bootcamp,0.81,Beginner,2024-10-18
+A035,TikTok,Video,Learning Plan,0.15,Advanced,2023-03-19
+A036,Meta Ads,Video,Bootcamp,0.82,Intermediate,2023-07-25
+A037,TikTok,Video,Learning Plan,0.68,Beginner,2023-09-03
+A038,TikTok,Video,Learning Plan,0.12,Beginner,2024-08-16
+A039,Meta Ads,Image,Learning Plan,0.2,Beginner,2023-09-12
+A040,TikTok,Image,Bootcamp,0.24,Advanced,2024-06-19
+A041,Meta Ads,Carousel,Bootcamp,0.55,Intermediate,2024-05-24
+A042,TikTok,Video,Live Code,0.9,Advanced,2023-06-30
+A043,TikTok,Video,Live Code,0.89,Advanced,2023-04-01
+A044,TikTok,Video,Learning Plan,0.49,Intermediate,2024-01-29
+A045,TikTok,Video,Bootcamp,0.72,Advanced,2024-07-07
+A046,TikTok,Carousel,Learning Plan,0.71,Intermediate,2023-12-11
+A047,Meta Ads,Carousel,Learning Plan,0.92,Intermediate,2023-04-10
+A048,Meta Ads,Carousel,Bootcamp,0.94,Beginner,2023-10-30
+A049,TikTok,Carousel,Live Code,0.91,Beginner,2023-08-28
+A050,Meta Ads,Image,Bootcamp,1.0,Advanced,2025-01-17
