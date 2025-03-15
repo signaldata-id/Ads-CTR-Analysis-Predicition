@@ -40,9 +40,9 @@ page = st.radio(
 
 if page == "CTR Prediction":
     # Load model dan preprocessing tools
-    xgb_model = joblib.load("xgboost_ctr_model.pkl")
-    label_encoder = joblib.load("label_encoders.pkl")
-    label_encoder_target = joblib.load("label_encoder_target.pkl")
+    xgb_model = joblib.load("deployment/xgboost_ctr_model.pkl")
+    label_encoder = joblib.load("deployment/label_encoders.pkl")
+    label_encoder_target = joblib.load("deployment/label_encoder_target.pkl")
 
     # Definisi ulang fitur kategorikal dan numerik
     feature_columns = ['Age', 'Gender', 'Location', 'Platform', 
