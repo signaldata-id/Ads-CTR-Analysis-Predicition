@@ -1,9 +1,6 @@
 # Prediksi Click-Through Rate (CTR) untuk Optimasi Penargetan Iklan
 
 [![Python Versi](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Analisis Data di Looker](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[Link Code EDA](https://colab.research.google.com/drive/11F9ZP5ABo8ijTdoGWytI9GkDU5mtXRJ-?usp=sharing)
-[Link Looker](https://lookerstudio.google.com/u/1/reporting/f522afb9-7fbc-4aa5-8927-2bd6d4e62ccd/page/bLQ4E)
 
 Proyek ini bertujuan untuk membangun model machine learning yang dapat memprediksi Click-Through Rate (CTR) iklan secara akurat. Dengan memanfaatkan fitur-fitur seperti demografi pengguna, karakteristik iklan, dan konteks penayangan, model ini memberikan wawasan berharga bagi tim digital marketer untuk mengoptimalkan kampanye iklan di platform seperti Meta Ads dan TikTok. Selain itu, proyek ini juga menyediakan dashboard interaktif berbasis Streamlit untuk visualisasi performa iklan dan rekomendasi strategi penargetan.
 
