@@ -132,7 +132,7 @@ elif page == "Team Member":
 
         st.markdown("#### 📊 Data Analytics Team")
         st.markdown("- Arella B. Lontaan - [LinkedIn](https://www.linkedin.com/in/arella-batya-lontaan-7a82072b8)")
-        st.markdown("- Katerina - [LinkedIn](https://www.linkedin.com/in/katerina-taroreh-56438a280/)")
+        st.markdown("- Katerina Taroreh - [LinkedIn](https://www.linkedin.com/in/katerina-taroreh-56438a280/)")
         st.markdown("- Nofrani Repi - [LinkedIn](https://www.linkedin.com/in/nofranirepi)")
 
         st.markdown("#### 🤖 Machine Learning Team")
